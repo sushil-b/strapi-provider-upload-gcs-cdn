@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-gcs",
+  "name": "strapi-provider-upload-gcs-x",
   "version": "4.20.4",
   "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload",
   "keywords": [
