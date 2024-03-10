@@ -1,6 +1,6 @@
 {
-  "name": "@strapi-community/strapi-provider-upload-google-cloud-storage",
-  "version": "4.10.5",
+  "name": "@strapi/provider-upload-google-cloud-storage",
+  "version": "4.20.4",
   "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload",
   "keywords": [
     "strapi",
@@ -10,9 +10,9 @@
     "storage",
     "gcp"
   ],
-  "homepage": "https://github.com/strapi-community/strapi-provider-upload-google-cloud-storage#readme",
+  "homepage": "https://github.com/ajrly/strapi-provider-upload-google-cloud-storage#readme",
   "bugs": {
-    "url": "https://github.com/strapi-community/strapi-provider-upload-google-cloud-storage/issues"
+    "url": "https://github.com/ajrly/strapi-provider-upload-google-cloud-storage/issues"
   },
   "license": "MIT",
   "author": {
@@ -21,8 +21,8 @@
   },
   "maintainers": [
     {
-      "name": "Vanessa Pasque",
-      "email": "lith@amykron.com"
+      "name": "Nasr Aldin",
+      "email": "nasr2ldin@gmail.com"
     }
   ],
   "main": "./lib",
@@ -34,10 +34,7 @@
     "lint": "eslint .",
     "coverage": "nyc npm run test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/strapi-community/strapi-provider-upload-google-cloud-storage.git"
-  },
+  "repository": "https://github.com/ajrly/strapi-provider-upload-google-cloud-storage.git",
   "dependencies": {
     "@google-cloud/storage": "^6.10.0",
     "slugify": "^1.6.6"
@@ -55,7 +52,7 @@
     "prettier": "^2.8.8"
   },
   "engines": {
-    "node": "^16 || ^18",
+    "node": "^18 || ^20",
     "npm": ">=8"
   },
   "strapi": {
