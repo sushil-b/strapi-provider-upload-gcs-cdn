@@ -1,7 +1,7 @@
 {
-  "name": "strapi-provider-upload-gcs-x",
+  "name": "strapi-provider-upload-gcs-cdn",
   "version": "4.20.4",
-  "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload",
+  "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload with CDN",
   "keywords": [
     "strapi",
     "upload",
@@ -10,19 +10,19 @@
     "storage",
     "gcp"
   ],
-  "homepage": "https://github.com/nasraldin/strapi-provider-upload-google-cloud-storage#readme",
+  "homepage": "https://github.com/sushil-b/strapi-provider-upload-gcs-cdn#readme",
   "bugs": {
-    "url": "https://github.com/nasraldin/strapi-provider-upload-google-cloud-storage/issues"
+    "url": "https://github.com/sushil-b/strapi-provider-upload-gcs-cdn/issues"
   },
   "license": "MIT",
   "author": {
-    "name": "Vanessa Pasque",
-    "email": "lith@amykron.com"
+    "name": "Sushil Buragute",
+    "email": "sushil.buragute@theporter.in"
   },
   "maintainers": [
     {
-      "name": "Nasr Aldin",
-      "email": "nasr2ldin@gmail.com"
+      "name": "Sushil Buragute",
+      "email": "sushil.buragute@theporter.in"
     }
   ],
   "main": "./lib",
