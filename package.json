@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-gcs-cdn",
-  "version": "4.20.4",
+  "version": "4.20.5",
   "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload with CDN",
   "keywords": [
     "strapi",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nasraldin/strapi-provider-upload-google-cloud-storage.git"
+    "url": "git+https://github.com/sushil-b/strapi-provider-upload-gcs-cdn.git"
   },
   "dependencies": {
     "@google-cloud/storage": "^7.8.0",
